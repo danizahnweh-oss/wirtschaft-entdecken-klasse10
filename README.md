@@ -32,3 +32,7 @@ Die Stationshäkchen beziehen sich auf Grundaufgaben, nicht auf die automatisch 
 ## Startseite und Haushaltserklärungen
 
 Die Website startet mit einer Gesamtübersicht des 90-Minuten-Ablaufs und direktem Zugang zu allen Stationen. Station 1 erklärt die Begriffe, Saldo, Monatsbezug, den ursprünglichen Haushaltsplan im Detail und das Vorgehen im Planer. Die Orientierung zählt zur ersten Station; insgesamt bleiben es 90 Minuten.
+
+## Selbstständige Erarbeitung
+
+Jede Station vermittelt die Begriffe vor der Anwendung: verständliche Lernabschnitte, erläuterte Alltagsbeispiele und eine Verständnisfrage mit direkter Erklärung. Die Lernzeiten sind in den bestehenden 90-Minuten-Plan integriert. Die Verständnisfragen zählen nicht als zusätzliche abgeschlossene Stationen.
