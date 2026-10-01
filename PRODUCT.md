@@ -13,7 +13,7 @@ Vier direkt bearbeitbare Stationen übersetzen die bereitgestellten Unterrichtsm
 Alltagsfälle vor Definitionen. Verständliche Rückmeldung statt bloßer Punkte. Freie Stationswahl. Keine persönlichen Finanzdaten erfragen.
 
 ## Brand Personality
-Klar, jugendlich, respektvoll. 30–45 Minuten als vorläufige Unterrichtsannahme.
+Klar, jugendlich, respektvoll. 90 Minuten Gesamtdauer gemäß Nutzerwunsch.
 
 ## Anti-references
 Keine Werbeseite, keine infantile Spielwelt, keine langen Textwände.
