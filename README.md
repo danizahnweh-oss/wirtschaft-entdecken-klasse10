@@ -28,3 +28,7 @@ Antworten leben nur im Arbeitsspeicher der geöffneten Seite. Neuladen setzt zur
 - 80–90: Lernzettel, Austausch im Plenum, persönliche Kaufregel.
 
 Die Stationshäkchen beziehen sich auf Grundaufgaben, nicht auf die automatisch ungeprüften Vertiefungstexte. Lösungen sind in aufklappbaren Hilfen enthalten. Alle Vertiefungsnotizen erscheinen im druckbaren Lernzettel.
+
+## Startseite und Haushaltserklärungen
+
+Die Website startet mit einer Gesamtübersicht des 90-Minuten-Ablaufs und direktem Zugang zu allen Stationen. Station 1 erklärt die Begriffe, Saldo, Monatsbezug, den ursprünglichen Haushaltsplan im Detail und das Vorgehen im Planer. Die Orientierung zählt zur ersten Station; insgesamt bleiben es 90 Minuten.
